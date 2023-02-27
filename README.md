@@ -1,5 +1,5 @@
 
-# Fibonacci calculator
+# Fibonacci calculator v2
 
 Overengineered Fibonacci calculator utilizing Ingress NGINX Controller, Redis, and PostgreSQL, Docker and Kubernetes, Google Cloud
 
