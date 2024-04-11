@@ -1,7 +1,7 @@
 
 # Fibonacci calculator v2
 
-Overengineered Fibonacci calculator utilizing Ingress NGINX Controller, Redis, and PostgreSQL, Docker and Kubernetes, Google Cloud
+Overengineered Fibonacci calculator utilizing NGINX, Redis, PostgreSQL, Docker, Kubernetes, and Google Cloud. Demo project to learn GC and DevOps tools.
 
 
 ## Tech Stack
@@ -11,8 +11,6 @@ Overengineered Fibonacci calculator utilizing Ingress NGINX Controller, Redis, a
 **Server:** Node, Express
 
 **Databases:** Redis, Postgres
-
-**Reverse proxy:** Ingress NGINX Controller
 
 **Application development**: Docker, Kubernetes
 
